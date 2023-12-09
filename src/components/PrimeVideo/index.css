@@ -1,0 +1,27 @@
+.bg {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.pImg {
+  width: 100%;
+}
+
+.bg2 {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 30px;
+  margin-top: 10px;
+}
+
+.h1 {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 700;
+  color: #ffffff;
+}
